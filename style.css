@@ -1,0 +1,97 @@
+body {
+    text-align: center;
+    background-color: blueviolet;
+}
+
+h3 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+h4 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+h5 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#app {
+    width: 100% height:800px;
+    background-color: aquamarine;
+}
+
+#games {
+    width: 100% height:800px;
+    background-color: fuchsia;
+}
+
+#Chatbot {
+    width: 100% height:800px;
+    background-color: blue;
+}
+
+img {
+    transition: transform.2s;
+}
+
+img:hover {
+    transform: scale(0.9)
+}
+
+.line {
+    height: 6px;
+    background-color: crimson;
+    width: 75px;
+    margin: 8px auto;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300%
+    margin-top:35px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin
+}
+
+#contact {
+    background: firebrick;
+}
+
+#contact iframe {
+    width: 100%
+}
+
+.contact_1 h2 {
+    display: inline;
+}
+
+contact_1 a {
+    color: white;
+    text-shadow: none;
+}
